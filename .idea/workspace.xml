@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="807be23e-e7ef-4b7a-88e9-50cd4690fda8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TrabajosEnClase/Edad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TrabajosEnClase/EdadEstudiantes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TrabajosEnClase/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TrabajosEnClase/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TrabajosEnClase/NumerosPares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TrabajosEnClase/Vehiculo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Edad.executor": "Run",
+    "Application.EdadEstudiantes.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MiEdad.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.SolicitarUnNumero">
+    <configuration name="Edad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TrabajosEnClase.Edad" />
+      <module name="TrabajoEnClase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TrabajosEnClase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EdadEstudiantes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C24C3.EdadEstudiantes" />
+      <module name="TrabajoEnClase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C24C3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="c24c23.Main" />
+      <module name="TrabajoEnClase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="c24c23.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumerosPares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TrabajosEnClase.NumerosPares" />
+      <module name="TrabajoEnClase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TrabajosEnClase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolicitarUnNumero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TrabajosEnClase.SolicitarUnNumero" />
+      <module name="TrabajoEnClase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TrabajosEnClase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SolicitarUnNumero" />
+        <item itemvalue="Application.NumerosPares" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.EdadEstudiantes" />
+        <item itemvalue="Application.Edad" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="807be23e-e7ef-4b7a-88e9-50cd4690fda8" name="Changes" comment="" />
+      <created>1714701816857</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714701816857</updated>
+    </task>
+    <servers />
+  </component>
+</project>
